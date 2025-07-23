@@ -1,10 +1,12 @@
 ---
 layout: card
 card_id: card2
-project_title: Ultricies lacinia interdum
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat.
+project_title: AI-Powered Learning Hubs in Rural India
+project_summary: Bringing offline, multilingual AI to underserved communities across India
 featured: true
 ---
-<p>Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.</p>
+<p>Across India’s rural regions, millions still lack reliable access to the internet—but not to potential. LightBridge Foundation is working to bridge that gap with compact, offline AI kiosks that deliver high-quality information and tools to empower individuals and families.</p>
 
-<p>Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.</p>
+<p>Each kiosk runs on a compact, affordable computing device that hosts large language models entirely offline—no internet needed. Villagers can speak to the AI in Hindi, Tamil, Bengali, and other local languages to ask questions about crop care, maternal health, exam prep, digital literacy, and small business practices.</p>
+
+<p>With strong community support and scalable tech, our project is creating educational and health access points in village schools, town halls, and community centers—unlocking knowledge where it's needed most.</p>
