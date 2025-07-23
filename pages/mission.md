@@ -1,6 +1,6 @@
 ---
 header_title: Mission
-header_intro: Illuminating knowledge & opportunity where the Internet cannot reach
+header_intro: Illuminating knowledge & opportunity where the Internet cannot reach.
 layout: page
 permalink: /:basename/
 ---
@@ -61,11 +61,6 @@ We build and ship **offline “AI libraries”**—palm-sized devices that run p
 
 - **Volunteer Your Skills**  
   From AI model fine-tuning to language translation, curriculum design, and logistics—your expertise accelerates our impact.
-
-<span class="fa-stack">
-  <i class="fa fa-circle fa-stack-2x"></i>
-  <i class="fa fa-download fa-stack-1x fa-inverse"></i>
-</span> <a href="/documents/lightbridge-overview.pdf">&nbsp;Download our one-page overview (PDF)</a>
 
 ---
 
