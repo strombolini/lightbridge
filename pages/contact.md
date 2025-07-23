@@ -1,13 +1,13 @@
 ---
 header_title: Contact
-address_line_one: 1234 Philanthropy Rd.
+address_line_one: 309 Walnut st
 address_line_two: 
-city: Bend
-state: OR
-zip: 97701
-phone: 541.555.1212
-fax: 541.555.1214
-email: hello@example.com
+city: Ithaca
+state: NY
+zip: 14850
+phone: 480.742.1188
+fax: 480.742.1188
+email: tyb3@cornell.edu
 layout: contact
 permalink: /:basename/
 ---
