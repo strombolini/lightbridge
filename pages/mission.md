@@ -53,7 +53,7 @@ We build and ship **offline “AI libraries”**—palm-sized devices that run p
 
 ## How You Can Help
 
-- **Fund a Kiosk — $300 equips a full village hub**  
+- **Fund a Kiosk — $100 equips a full village hub**  
   Donate or sponsor a specific community; we provide transparent cost breakdowns and deployment photos.
 
 - **Open Doors & Clear Paths**  
