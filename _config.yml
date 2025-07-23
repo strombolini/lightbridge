@@ -13,7 +13,7 @@ profile_github:
 # Site settings
 title: # Defaults to foundation_name if left blank
 description: > # this means to start on the next line (which needs to be indented two spaces)"
-  The LightBridge Foundation works in rural communities to provide artificial intelligence where internet access is impossible. We work primarily in Sub-Saharan Africa and Europe.
+  The LightBridge Foundation works with underserved communities to provide artificial intelligence where internet access is impossible. Its work extends through Sub-Saharan Africa and Europe.
 
 # Google settings
 live: true
