@@ -1,10 +1,10 @@
 ---
 layout: card
 card_id: card4
-project_title: Quam neque phasellus
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Climate‑Smart Farming in Bangladesh
+project_summary: Offline AI advice on flood‑resilient crops and market prices for delta farmers
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>The fertile deltas of Bangladesh also make it one of the most flood‑prone nations on Earth. Smallholder farmers struggle to get timely agronomic advice when monsoon waters rise and connectivity drops.</p>
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>Our AI kiosks, powered by compact computing devices, deliver Bangla‑language guidance on flood‑tolerant rice varieties, seed spacing, pest control, and up‑to‑date market prices. Placed in union parishad offices and farmer co‑op buildings, each kiosk equips villagers to protect livelihoods and adapt to a changing climate—no broadband required.</p>
