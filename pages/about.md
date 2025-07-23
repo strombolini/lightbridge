@@ -11,7 +11,7 @@ LightBridge Foundation is a nonprofit initiative dedicated to closing the last�
 Founded in 2024 by a small team of technologists and field practitioners, we operate at the intersection of affordable computing, language technology, and community‑driven development.
 
 ## Our Story
-While volunteering in rural clinics, **Timofei Babenko** and **Neva Crounse** kept seeing the same pattern: electricity was present, yet vital knowledge was not. Inspired by advances in compact Large Language Models that run on low‑power devices, they sketched a solution that could fit in a backpack and cost less than US $300—small enough to ship anywhere, powerful enough to save lives and unlock opportunity.
+While volunteering in rural clinics, **Timofei Babenko** and **Neva Crounse** kept seeing the same pattern: electricity was present, yet vital knowledge was not. Inspired by advances in compact Large Language Models that run on low‑power devices, they sketched a solution that could fit in a backpack and cost less than US $100—small enough to ship anywhere, powerful enough to save lives and unlock opportunity.
 
 ## Leadership Team
 
@@ -24,7 +24,7 @@ While volunteering in rural clinics, **Timofei Babenko** and **Neva Crounse*
 ## What Drives Us
 
 * **Access:** Accurate health, education, and agricultural guidance should never depend on a ZIP code or data plan.  
-* **Affordability:** A one‑time hardware investment of < $300 can serve thousands of people for years.  
+* **Affordability:** A one‑time hardware investment of < $100 can serve thousands of people for years.  
 * **Localization:** We prioritise regional languages and include local experts in content validation.  
 * **Accountability:** Open‑source software, transparent financials, and measurable impact keep us honest and effective.  
 
@@ -32,7 +32,7 @@ While volunteering in rural clinics, **Timofei Babenko** and **Neva Crounse*
 
 Ready to help light a bridge to knowledge?
 
-* **Sponsor a kiosk** — US $300 equips an entire village.  
+* **Sponsor a kiosk** — US $100 equips an entire village.  
 * **Volunteer your expertise** — from translation to hardware repair.  
 * **Partner with us** — NGOs, schools, clinics, and community leaders are invited to collaborate.  
 
