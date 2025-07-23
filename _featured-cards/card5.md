@@ -1,10 +1,10 @@
 ---
 layout: card
 card_id: card5
-project_title: Nunc enim commodo aliquet
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Youth Skills Hubs in Nigeria
+project_summary: Portable AI labs teaching coding, entrepreneurship, and health literacy
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>Nigeria’s vibrant youth population is hungry for digital‑age skills but often lacks affordable training. LightBridge Foundation partners with local NGOs in Lagos, Ibadan, and Kano to deploy offline AI “skills hubs.”</p>
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>Students interact with the AI—available in English, Yoruba, Hausa, and Pidgin—to learn Python basics, entrepreneurship fundamentals, and essential reproductive‑health information. Each hub costs under US $300 and runs on stable electricity in community centres or libraries, empowering young Nigerians to create jobs and healthy futures.</p>
