@@ -1,11 +1,13 @@
 ---
 layout: card
 card_id: card1
-project_title: Magna sed consequat tempus
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Expanding Access to Knowledge in Malawi
+project_summary: Offline AI kiosks delivering health and education resources to rural Malawian villages
 featured: true
 ---
 <!--Featured cards can be written in HTML or markdown -->
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+In Malawi, thousands of rural communities remain disconnected from the internet yet have access to stable electricity. LightBridge Foundation is launching a pilot initiative to place offline AI “knowledge kiosks” in village centers across the country.
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+These kiosks run on low-cost, energy-efficient computing devices that host powerful language models entirely offline. Villagers can speak directly to the AI to access reliable health guidance, agricultural advice, educational tutoring, and small business support—in Chichewa and English.
+
+By providing this critical knowledge locally, we aim to support healthier families, more informed farmers, and greater self-sufficiency in communities where traditional infrastructure remains out of reach. With each kiosk costing under $300, we're proving that high-impact solutions don’t have to be high-cost.
