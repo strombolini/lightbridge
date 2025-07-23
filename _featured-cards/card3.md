@@ -1,10 +1,10 @@
 ---
 layout: card
 card_id: card3
-project_title: Tortor metus commodo
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Supporting Refugee Integration in France
+project_summary: Multilingual AI kiosks guiding newcomers through healthcare, housing, and language resources
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>France welcomes thousands of asylum‑seekers and refugees every year, many of whom face language barriers when navigating healthcare, housing, and education systems. LightBridge Foundation is piloting offline AI kiosks in community centres across Paris, Lyon, and Marseille.</p>
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>The kiosks translate official procedures into Arabic, Dari, Pashto, and Tigrinya, provide step‑by‑step guides to accessing medical care, and offer French‑language tutoring—all without an internet connection. By putting clear, trustworthy information at newcomers’ fingertips, we help families settle faster and preserve the dignity every person deserves.</p>
